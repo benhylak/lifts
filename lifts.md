@@ -1,4 +1,14 @@
-Bench Press: 215 x5
-Overhead Press: 135 x5
-Deadlift: 315 x5 
-Pull Ups: x10
+# Bench Press
+- Weight: 22
+- Reps: 5
+
+# Overhead Press
+- Weight: 135
+- Reps: 5
+
+# Deadlift
+- Weight: 315
+- Reps: 5
+
+# Pull Ups
+- Reps: 10
