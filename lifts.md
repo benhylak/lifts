@@ -1,9 +1,9 @@
 # Bench Press
-- Weight: 215
+- Weight: 225
 - Reps: 5
 
 # Overhead Press
-- Weight: 135
+- Weight: 140
 - Reps: 5
 
 # Deadlift
