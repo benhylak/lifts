@@ -3,7 +3,7 @@
 - Reps: 5
 
 # Overhead Press
-- Weight: 145
+- Weight: 150
 - Reps: 5
 
 # Deadlift
