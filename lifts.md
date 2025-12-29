@@ -1,6 +1,6 @@
 # Bench Press
-- Weight: 235
-- Reps: 6
+- Weight: 245
+- Reps: 5
 
 # Overhead Press
 - Weight: 150
