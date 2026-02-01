@@ -11,4 +11,4 @@
 - Reps: 5
 
 # Pull Ups
-- Reps: 10
+- Reps: 11
