@@ -7,7 +7,7 @@
 - Reps: 5
 
 # Deadlift
-- Weight: 320
+- Weight: 325
 - Reps: 5
 
 # Pull Ups
